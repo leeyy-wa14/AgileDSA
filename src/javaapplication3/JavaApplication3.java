@@ -18,6 +18,7 @@ public class JavaApplication3 {
         // TODO code application logic here
         System.out.println("Hi");
         System.out.println("yo");
+        System.out.println("Annyeong");
         
     }
     
