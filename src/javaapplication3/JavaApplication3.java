@@ -19,6 +19,7 @@ public class JavaApplication3 {
         System.out.println("Hi");
         System.out.println("yo");
         System.out.println("Annyeong");
+        System.out.println("yo");
         
     }
     
